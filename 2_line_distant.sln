@@ -14,4 +14,7 @@ Global
 		{F5600EE2-E98E-4B18-91BD-3F657269C474}.Release|anycpu.ActiveCfg = Release|anycpu
 		{F5600EE2-E98E-4B18-91BD-3F657269C474}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		version = 0.1.5
+	EndGlobalSection
 EndGlobal
